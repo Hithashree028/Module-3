@@ -7,15 +7,15 @@ Java program to Create a Cellphone class with methods to print actions.
 Java program to Create an Employee class with properties and methods.
 ![image link](https://github.com/Hithashree028/Module-3/blob/4cdab3d4c39e3eb44655a70b557ab9723c56d972/Screenshot%202025-11-12%20181552.png)
 
-Java program to
+Java program to Create a class Cylinder and use getters and setters to set its radius and height.
 ![image link]()
 
-Java program to
+Java program to Create a class Cylinder with private variables radius and height. Use getters and setters to assign values, and add methods to calculate and display the surface area and volume of the cylinder.
 ![image link]()
 
-Java program to
+Java program to Create a class Cylinder using a constructor to initialize its radius and height, and display these values using getter methods.
 ![image link]()
 
-Java program to
+Java program to Overload a constructor used to initialize a rectangle of length 4 and breadth 5 for using custom parameters.
 ![image link]()
 
