@@ -14,7 +14,7 @@ Java program to Create a class Cylinder with private variables radius and height
 ![image link](https://github.com/Hithashree028/Module-3/blob/a1448d22d8263344fdecd68bcaae415bd8b4d522/Screenshot%202025-11-12%20183428.png)
 
 Java program to Create a class Cylinder using a constructor to initialize its radius and height, and display these values using getter methods.
-![image link]()
+![image link](https://github.com/Hithashree028/Module-3/blob/a45aeca766461f22b9df7531ee8fd0c259132a19/Screenshot%202025-11-12%20183719.png)
 
 Java program to Overload a constructor used to initialize a rectangle of length 4 and breadth 5 for using custom parameters.
 ![image link]()
