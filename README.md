@@ -6,3 +6,16 @@ Java program to Create a Cellphone class with methods to print actions.
 
 Java program to Create an Employee class with properties and methods.
 ![image link](https://github.com/Hithashree028/Module-3/blob/4cdab3d4c39e3eb44655a70b557ab9723c56d972/Screenshot%202025-11-12%20181552.png)
+
+Java program to
+![image link]()
+
+Java program to
+![image link]()
+
+Java program to
+![image link]()
+
+Java program to
+![image link]()
+
