@@ -11,7 +11,7 @@ Java program to Create a class Cylinder and use getters and setters to set its r
 ![image link](https://github.com/Hithashree028/Module-3/blob/22f8ad4ae0c6d129b33954ff6c1fb3a7728fe6e0/Screenshot%202025-11-12%20183034.png)
 
 Java program to Create a class Cylinder with private variables radius and height. Use getters and setters to assign values, and add methods to calculate and display the surface area and volume of the cylinder.
-![image link]()
+![image link](https://github.com/Hithashree028/Module-3/blob/a1448d22d8263344fdecd68bcaae415bd8b4d522/Screenshot%202025-11-12%20183428.png)
 
 Java program to Create a class Cylinder using a constructor to initialize its radius and height, and display these values using getter methods.
 ![image link]()
