@@ -30,7 +30,7 @@ Java program to demonstrate a parameterized constructor that sets values to obje
 
 
 Java program to demonstrate stack operations using the Stack class in Java.
-![image link]()
+![image link](https://github.com/Hithashree028/Module-3/blob/3ef2af5cf6cb5da4f07a63e115830af6885b4565/Screenshot%202025-11-13%20184637.png)
 
 Java program to demonstrate garbage collection and the use of the finalize() method.
 ![image link](https://github.com/Hithashree028/Module-3/blob/c8bc32af43e060cd09a073ed12954c7b7ad46338/Screenshot%202025-11-13%20183442.png)
