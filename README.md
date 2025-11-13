@@ -23,7 +23,7 @@ Java program to demonstrate a default constructor that initializes the car's mod
 ![image link](https://github.com/Hithashree028/Module-3/blob/72b8bf7acaad6bcbea68acab408d7c7a98a79a0c/Screenshot%202025-11-13%20182412.png)
 
 Java program to demonstrate a copy constructor that copies the details of one object into another.
-![image link]()
+![image link](https://github.com/Hithashree028/Module-3/blob/2e5cd59de8a085ea2c960cba86af9ce59c534f66/Screenshot%202025-11-13%20182826.png)
 
 Java program to demonstrate a parameterized constructor that sets values to object fields using parameters.
 ![image link]()
