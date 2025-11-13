@@ -19,3 +19,17 @@ Java program to Create a class Cylinder using a constructor to initialize its ra
 Java program to Overload a constructor used to initialize a rectangle of length 4 and breadth 5 for using custom parameters.
 ![image link](https://github.com/Hithashree028/Module-3/blob/bd6d3e1fa096e1818525aed7d0d85cf8210a3584/Screenshot%202025-11-12%20183827.png)
 
+Java program to demonstrate a default constructor that initializes the car's model and year with default values.
+![image link]()
+
+Java program to demonstrate a copy constructor that copies the details of one object into another.
+![image link]()
+
+Java program to demonstrate a parameterized constructor that sets values to object fields using parameters.
+![image link]()
+
+Java program to demonstrate garbage collection and the use of the finalize() method.
+![image link]()
+
+Java program to to demonstrate method overloading where multiple methods have the same name but different parameter lists.
+![image link]()
