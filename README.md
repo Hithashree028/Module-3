@@ -29,7 +29,7 @@ Java program to demonstrate a parameterized constructor that sets values to obje
 ![image link](https://github.com/Hithashree028/Module-3/blob/7e3957e1b6a7d707f3de51f93c1fd5f07e90c93b/Screenshot%202025-11-13%20183011.png)
 
 Java program to demonstrate garbage collection and the use of the finalize() method.
-![image link]()
+![image link](https://github.com/Hithashree028/Module-3/blob/c8bc32af43e060cd09a073ed12954c7b7ad46338/Screenshot%202025-11-13%20183442.png)
 
 Java program to to demonstrate method overloading where multiple methods have the same name but different parameter lists.
 ![image link]()
