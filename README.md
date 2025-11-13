@@ -28,6 +28,10 @@ Java program to demonstrate a copy constructor that copies the details of one ob
 Java program to demonstrate a parameterized constructor that sets values to object fields using parameters.
 ![image link](https://github.com/Hithashree028/Module-3/blob/7e3957e1b6a7d707f3de51f93c1fd5f07e90c93b/Screenshot%202025-11-13%20183011.png)
 
+
+Java program to demonstrate stack operations using the Stack class in Java.
+![image link]()
+
 Java program to demonstrate garbage collection and the use of the finalize() method.
 ![image link](https://github.com/Hithashree028/Module-3/blob/c8bc32af43e060cd09a073ed12954c7b7ad46338/Screenshot%202025-11-13%20183442.png)
 
